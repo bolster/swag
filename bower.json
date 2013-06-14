@@ -1,0 +1,7 @@
+{
+    "name": "swag",
+    "version": "0.2.7",
+    "main": [
+        "lib/swag.js"
+    ]
+}
